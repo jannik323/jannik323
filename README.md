@@ -1,7 +1,7 @@
 ## 🐸
 
 ### check out some of my projects 
-(a few aren't finished)
+(i haven't updated this in a long time (until i changed this text, but i didn't bother updating the actual list))
 <ol>
   <li><a href="https://jannik323.itch.io/jarlslice"> jarlslice</a></li>
   <li><a href="https://jannik323.itch.io/jdungeon"> jdungeon</a></li>
